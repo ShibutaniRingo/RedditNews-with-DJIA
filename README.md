@@ -5,20 +5,20 @@
 <ul>
 <li>Dataset
     <ul>
-    <li>Combined_News_DJIA.csv: labled DJIA index with reddit news headlines.</li>
-    <li>DJIA_table.csv and RedditNews.csv: for reference</li>
-    <li>Datasource: Kaggle: Data Source: ["Kaggle: CDC Data: Nutrition, Physical Activity, & Obesity"](https://www.kaggle.com/aaron7sun/stocknews)</li>
-        </ul>
+        <li>Combined_News_DJIA.csv: labled DJIA index with reddit news headlines.</li>
+        <li>DJIA_table.csv and RedditNews.csv: for reference</li>
+        <li>Datasource: Kaggle: Data Source: ["Kaggle: CDC Data: Nutrition, Physical Activity, & Obesity"](https://www.kaggle.com/aaron7sun/stocknews)</li>
+    </ul>
 </li>
 <li>Notebooks and HTML: different format for raw code.
     <ul>
-    <li>Data_project_visualization.ipynb: Data Visualization in the Data Exploration & Sentiment Analysis period</li>
-    <li>Frequent_words+LDA+ML_visualization.ipynb: Data Exploration</li>
-    <li>Words related with Crisis.ipynb: Data Exploration</li>
-    <li>Stock_News_Machine_Learning_Models.ipynb: Inculding both Vectorizing and Modeling part</li>
-    <li>Final Deliverables: project report and presentation materials.</li>
+        <li>Data_project_visualization.ipynb: Data Visualization in the Data Exploration & Sentiment Analysis period</li>
+        <li>Frequent_words+LDA+ML_visualization.ipynb: Data Exploration</li>
+        <li>Words related with Crisis.ipynb: Data Exploration</li>
+        <li>Stock_News_Machine_Learning_Models.ipynb: Inculding both Vectorizing and Modeling part</li>
     </ul>
 </li>
+<li>Final Deliverables: project report and presentation materials.</li>
 </ul>
 <p> 
 <p>_______________________________________________________________
