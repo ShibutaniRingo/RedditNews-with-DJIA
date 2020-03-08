@@ -35,7 +35,7 @@
 <li>Motivations & Data Description
 <p>When betting the market trend and implementing trading strategies, traders on the street always utilize the current market news as a main signal to detect the major market movements and volatilities. Given a relatively efficient market, the news tends to be absorbed and reacted by market players within several hours. 
 
-<p>Thus, this project aims to predict the US stock market performance based on market news headlines. This project makes use of a dataset referenced from Kaggle (https://www.kaggle.com/aaron7sun/stocknews). The dataset is composed of top 25 daily market headlines ranked by Reddit votes and Dow Jones Industrial Average (DJIA) from 2008 to 2016.
+<p>Thus, this project aims to predict the US stock market performance based on market news headlines. This project makes use of a dataset referenced from Kaggle. The dataset is composed of top 25 daily market headlines ranked by Reddit votes and Dow Jones Industrial Average (DJIA) from 2008 to 2016.
 
 <li>Data Exploration & Sentiment Analysis
 <p>With basic data exploration in the beginning, we found frequent words and ‘crisis’ related words. We also did words dispersion analysis and LDA analysis. 
