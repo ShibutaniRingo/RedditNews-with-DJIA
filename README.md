@@ -7,7 +7,10 @@
     <ul>
         <li>Combined_News_DJIA.csv: labled DJIA index with reddit news headlines.</li>
         <li>DJIA_table.csv and RedditNews.csv: for reference</li>
-        <li>Datasource: Kaggle: Data Source: ["Kaggle: CDC Data: Nutrition, Physical Activity, & Obesity"](https://www.kaggle.com/aaron7sun/stocknews)</li>
+        <li>Datasource: Kaggle: Data Source: 
+        <a href="https://www.kaggle.com/aaron7sun/stocknews">
+        StockNews
+        </a></li>
     </ul>
 </li>
 <li>Notebooks and HTML: different format for raw code.
